@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a 21 year old full-stack engineer & games developer
+I'm a 21 year old full-stack engineer & AI developer
 
 ## ⚡️ Current
 
