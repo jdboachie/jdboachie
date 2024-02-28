@@ -10,7 +10,7 @@ Currently working on building [GUILLO](https://guillo.vercel.app/)
 
 ## 💎 Experience
 
-I like to say that I am a full-stack developer, but I have most experience with frontend development, primarily [React](https://reactjs.org/) & [Next.js](https://nextjs.org/). However I also do backend development, primarily using [TypeScript](https://www.typescriptlang.org/) & [Python](https://www.rust-lang.org/).
+I like to say that I am a full-stack developer, but I have most experience with frontend development, primarily [React](https://reactjs.org/) & [Next.js](https://nextjs.org/). However I also do backend development, primarily using [TypeScript](https://www.typescriptlang.org/) & [Python](https://www.python.org/).
 
 I'm spending four years studying Computer Engineering at [Kwame Nkrumah University of Science and Techonology](https://www.knust.edu.gh/), focusing on low-level programming using [C++](https://www.cplusplus.com/) and [Java] & specializing on Robotics.
 
