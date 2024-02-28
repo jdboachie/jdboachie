@@ -16,7 +16,7 @@ I'm spending four years studying Computer Engineering at [Kwame Nkrumah Universi
 
 ## 📫 Contact
 
-For a fast response, please DM me on Twitter: [@jdboachie](https://twitter.com/direct_messages/create/jdboachie) 
+For a fast response, please DM me on Twitter: [@iamjudeboachie](https://twitter.com/direct_messages/create/iamjudeboachie) 
 
 Any other queries you can contact me via [LinkedIn](https://www.linkedin.com/in/nurodev) or via my website: [judeboachie.me](https://judeboachie.me/contact)
 
