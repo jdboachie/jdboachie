@@ -6,7 +6,7 @@ I'm a 21 year old full-stack engineer & AI developer
 
 ## ⚡️ Current
 
-Currently working on building [GUILLO](https://guillo.vercel.app/)
+Currently working on building [wanim](https://wanim.vercel.app/)
 
 ## 💎 Experience
 
