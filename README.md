@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I'm a 22 year old full-stack engineer & aspiring AI developer
+I'm a 22 year product developer & aspiring AI engineer
 
 ## ⚡️ Current
 
