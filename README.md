@@ -6,13 +6,13 @@ I'm a 22 year product developer & aspiring AI engineer
 
 ## ⚡️ Current
 
-Currently working on [my personal site](https://jude.vercel.app/).
+Currently working on [softdrive](https://softdrive-two.vercel.app/).
 
 ## 💎 Experience
 
-I am a product developer, but I have most experience with frontend development, primarily [React](https://reactjs.org/) & [Next.js](https://nextjs.org/). However I also do backend development, primarily using [TypeScript](https://www.typescriptlang.org/) & [Python](https://www.python.org/).
+I am a product developer, frontend with [React](https://reactjs.org/)/[Next.js](https://nextjs.org/) and Svelte, backend development using [TypeScript](https://www.typescriptlang.org/) & [Python](https://www.python.org/).
 
-I'm spending four years studying Computer Engineering at [Kwame Nkrumah University of Science and Techonology](https://www.knust.edu.gh/) graduating August 2025.
+I'm spending four years studying Computer Engineering at [Kwame Nkrumah University of Science and Techonology](https://www.knust.edu.gh/) graduating September 2025.
 
 ## 📫 Contact
 
