@@ -1,5 +1,7 @@
+> *See my work at Amalitech [here](https://github.com/jdboachie-at).*
+
 Hi, I'm **Jude**.
-I'm a 23yo software engineer at [Soko Aerial Robotics](https://sokoaerial.com). [Freelance](https://www.upwork.com/freelancers/~019506a508cebbe309?mp_source=share) fullstack web developer. Contributing to society.
+I'm a 23yo fullstack engineer at [Amalitech](https://amalitech.org) software engineer at [Soko Aerial Robotics](https://sokoaerial.com). [Freelance](https://www.upwork.com/freelancers/~019506a508cebbe309?mp_source=share) fullstack web developer. Contributing to society.
 
 
 **Experience**<br />
