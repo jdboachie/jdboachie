@@ -8,7 +8,7 @@ I'm a Junior Associate at [AmaliTech](https://github.com/jdboachie-at) and [free
 
 - Desktop development with [Python](https://github.com/jdboachie?tab=repositories&q=&type=public&language=python&sort=) and [Rust](https://github.com/jdboachie?tab=repositories&q=&type=public&language=rust&sort=).
 
-- Fullstack web development: frontend with [React/Next.js](https://github.com/jdboachie?tab=repositories&q=&type=public&language=typescript&sort=) and [Svelte](https://svelte.dev), backend development using [TypeScript](https://github.com/jdboachie?tab=repositories&q=&type=public&language=typescript&sort=) & [Python](https://github.com/jdboachie?tab=repositories&q=&type=public&language=python&sort=).
+- Fullstack web development: frontend with [Angular, React](https://github.com/jdboachie?tab=repositories&q=&type=public&language=typescript&sort=) and [Svelte](https://svelte.dev), backend development using [TypeScript](https://github.com/jdboachie?tab=repositories&q=&type=public&language=typescript&sort=) & [Python](https://github.com/jdboachie?tab=repositories&q=&type=public&language=python&sort=).
 
 - I studied Computer Engineering at [Kwame Nkrumah University of Science and Techonology](https://www.knust.edu.gh/), graduated September 2025.
 
